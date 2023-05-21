@@ -1,6 +1,6 @@
 # Encode Solidity Bootcamp Group 12
 
-Welcome to the official GitHub organization page for Encode Solidity Bootcamp Group 12! This repository serves as a central hub for all our project files, documentation, and resources.
+Welcome to the official GitHub organization page for Encode Solidity Bootcamp Group 12! This serves as a central hub for all our project files, documentation, and resources.
 
 ## Table of Contents
 
